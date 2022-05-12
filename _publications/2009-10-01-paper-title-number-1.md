@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Creating Naturalistic Interactions in Language Learning Technologies"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2022-04-10
+excerpt: 'Acquiring a second language is very different from the process of learning the mother tongue. Popular language apps for people to self-study a new language each have their own strengths and weaknesses and have been noted for their differing methods of instruction. However, studies have shown that current language learning technologies (LLTs) base L2 learning around generic negative feedback, without situated practice in real-life contexts; thus, these apps are not sufficient to provide a true naturalistic, immersive environment for second language acquisition. By analyzing the current model utilized by these language apps and applying principles of human second language acquisition, we are hoping to create a more innovative and communication-driven paradigm for independent language education. Based on cognitive science studies, we feature essential mechanisms in language acquisition research. Then, after performing a quantitative comparison between three LLT apps’ teaching models and the way their curriculum progresses, we find shared issues both in the language and method of education. Finally, we propose a solution to the identified issue by integrating two artificial intelligence systems (one learning AI and one language AI) with virtual and augmented reality technologies to mimic true, naturalistic immersion for language education.'
+date: 2022-04-10
+venue: '7th Annual Conference of JHU Omega Psi (Undergraduate Cognitive Science Society)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Silva, B. (2022). &quot;Creating Naturalistic Interactions in Language Learning Technologies.&quot; <i>7th Annual Conference of JHU Omega Psi</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract: 'Acquiring a second language is very different from the process of learning the mother tongue. Popular language apps for people to self-study a new language each have their own strengths and weaknesses and have been noted for their differing methods of instruction. However, studies have shown that current language learning technologies (LLTs) base L2 learning around generic negative feedback, without situated practice in real-life contexts; thus, these apps are not sufficient to provide a true naturalistic, immersive environment for second language acquisition. By analyzing the current model utilized by these language apps and applying principles of human second language acquisition, we are hoping to create a more innovative and communication-driven paradigm for independent language education. Based on cognitive science studies, we feature essential mechanisms in language acquisition research. Then, after performing a quantitative comparison between three LLT apps’ teaching models and the way their curriculum progresses, we find shared issues both in the language and method of education. Finally, we propose a solution to the identified issue by integrating two artificial intelligence systems (one learning AI and one language AI) with virtual and augmented reality technologies to mimic true, naturalistic immersion for language education.'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download poster here](https://github.com/brodyrms/brodyrms.github.io/blob/cddb6c5903308dbd87cac86aa5c3f1c86c051f83/files/opBsilvaposter2022.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Silva, B. (2022). &quot;Creating Naturalistic Interactions in Language Learning Technologies.&quot; <i>7th Annual Conference of JHU Omega Psi</i>. 1(1).'
