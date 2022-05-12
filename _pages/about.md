@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student at Johns Hopkins University studying linguistics and cognitive science, investigating the connections between how and why language exists.
 
-A data-driven personal website
+For the Love of Learning
 ======
 I am fully committed to making education about language, thought, and intelligence accessible and comprehensible to the general public as well as young scholars. If you have an interest in learning more about any of the following topics, let me know and I will put together a reading list!
 * Foundational Cognitive Science
