@@ -26,7 +26,7 @@ My positions
 1. I believe that human exceptionalism relies on the use of language for complex representations of ideas, agents, and processes in the mind. Without language, we can't move past that initial discovery system of core abilities.
 1. Bayesian models of decision making incorporate both prior knowledge available from the developmental system and new evidence as time continues, striking an important balance between the nativist/empiricist debate.
 1. Given the opportunity, I'd like to explore the use of neuroplastic principles in designing neural networks. When bridging the gap between stability and plasticity, we should rely more heavily on neuroscience findings to guide cognitive models.
-2. Cognition is NOT a "black-box"; we only have to investigate the discreet differences in input-output relations to begin building a comprehensive map of every cognitive ability, then weave them all together with domain-general and domain-specific theories of processing.
+2. More on the way...
 
 For more info
 ------
