@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-psy1
 venue: "Harvard University, Department of Psychology"
-date: 2014-01-01
+date: 2022-09-01
 location: "Cambridge, Massachusetts"
 ---
 
