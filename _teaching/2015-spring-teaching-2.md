@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "PSY 1304: Brain Damage as a Window into the Mind: Cognitive Neuropsychology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2022-psy-1304
+venue: "Harvard University, Department of Psychology"
+date: 2022-09-01
+professor: "Alfonso Caramazza"
+location: "Cambridge, Massachusetts"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
