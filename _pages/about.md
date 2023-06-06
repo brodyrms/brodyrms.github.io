@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant at Harvard University in the Cognitive Neuropsychology Lab of Alfonso Caramazza. There, I work with postdoc Esti Blanco-Elorrieta on a project studying bilingual aphasia using fMRI. Previously, I was an undergraduate student at Johns Hopkins University studying linguistics and cognitive science, investigating the connections between how and why language exists. I'm looking to apply to graduate programs this fall!
+I'm a former research assistant at Harvard University in the Cognitive Neuropsychology Lab of Alfonso Caramazza. There, I worked with postdoc Esti Blanco-Elorrieta on a project studying bilingual aphasia using fMRI. Previously, I was an undergraduate student at Johns Hopkins University studying linguistics and cognitive science, investigating the connections between how and why language exists. I'm now looking for new opportunities to explore research and teaching in my adoptive home of Washington, D.C.!
 
 For the Love of Language
 ======
@@ -22,8 +22,18 @@ I am fully committed to making education about language, thought, and intelligen
 
 I have extensive experience as a teaching assistant, peer mentor, and private tutor. One day, I'd like to combine my passion for research and teaching to work as a proffesor or scientific communicator. If you have an interest in joining me in this pursuit, reach out anytime!
 
+Reviews from Former Students
+======
+This is what some of my students at Harvard/Johns Hopkins have said about me on recent course evaluations!
+* *Brody was super enthusiastic during section. His feedback on written assignments was particularly helpful.*
+* *Thank you Brody Silva for all of your hardwork. There was one time that I couldn't meet to review over work and he made time for me before section early friday morning. He met me an hour early and went over subject matter and information that I was confused on. I wouldn't have survived (barely) without all of your help. And I loved section! You are funny, personal, and interesting to listen to. really nice and outgoing ... [and] made section really fun and interesting!*
+* *Super engaging! Very good at fostering participation from everyone, and was clearly passionate about the subject material.*
+* *Brody is awesome! Psych section was one of the highlights of my week! I loved how discussion-based it was.*
+* *Great teacher and a cool person overall. Brody was enthusiastic as as section leader. He was personable and energetic, which definitely made section more enjoyable!*
+* Mean rating of 4.79/5 by students of a 100+ person class.
+
 For more info
 ------
 More info about my work and interests, shoot me an [email](mailto:brodyrms@gmail.com) or follow me on [Twitter](https://twitter.com/mrminipuff).
 
-*Last updated Oct. 27, 2022*
+*Last updated Jun. 6, 2023*
