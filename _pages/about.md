@@ -19,7 +19,7 @@ For the Love of Language
 ======
 I am fully committed to making education about language, thought, and intelligence accessible and comprehensible to the general public as well as young scholars. I firmly believe that an understanding of the nature of perception and language can build empathy, communication, and encourage people to practice lifelong learning of creative skills and languages. If you have an interest in learning more about any of the following topics, let me know and I will put together a reading list!
 
-* Language and Cognitive: What is the cognitive benefit of bilingualism in memory and creative problem-solving?
+* Language and Cognitiion: What is the cognitive benefit of bilingualism in memory and creative problem-solving?
 * Models of Learning: How can language acquisition research be used to improve language processing models?
 * Cognitive Bias leads to Linguistic Patterns: What type of pattern-solving skills are utilized in language acquisition vs. other forms of learning? How do theories of linguistics pair with neuropsychological research?
 * Second Language Acquisition: What makes acquiring a language in adolescence/adulthood so different? Are there differences in cognitive and neural development between monolingual and bilingual children?
