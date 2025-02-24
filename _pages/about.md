@@ -7,17 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! I am a current Master's student at the University of Delaware in the [Department of Linguistics and Cognitive Science](https://www.udel.edu/academics/colleges/cas/units/departments/linguistics-cognitive-science/). I also work at [MATHCOUNTS](www.mathcounts.org), the best middle school math competition in the world!
 
-I am a former research assistant at Harvard University in the Cognitive Neuropsychology Lab of Alfonso Caramazza. During my time there, I collaborated with a postdoctoral fellow on a project investigating bilingual aphasia using fMRI. Previously, I pursued my undergraduate studies in linguistics and cognitive science at Johns Hopkins University, where I explored the relationship between language and cognition. Currently, I am seeking new opportunities to further my research and teaching endeavors in my adopted home of Washington, D.C.!
+About Me
+======
+I am a former research assistant at Harvard University in the Cognitive Neuropsychology Lab of Alfonso Caramazza. During my time there, I collaborated with a postdoctoral fellow on a project investigating bilingual aphasia using fMRI. Previously, I pursued my undergraduate studies in linguistics and cognitive science at Johns Hopkins University, where I explored the relationship between language and cognition.
+
+I was born in Houston, TX but have now made Washington, DC my home. I'm hoping to starting a PhD program next year. In my free time, I enjoy baking, repairing pocketwatches, and science fiction. Send me your reading recommendations!
 
 For the Love of Language
 ======
-I am fully committed to making education about language, thought, and intelligence accessible and comprehensible to the general public as well as young scholars. I firmly believe that an understanding of the arbitrary nature of perception and language can build empathy, communication, and encourage people to practice lifelong learning of creative skills and languages. If you have an interest in learning more about any of the following topics, let me know and I will put together a reading list!
+I am fully committed to making education about language, thought, and intelligence accessible and comprehensible to the general public as well as young scholars. I firmly believe that an understanding of the nature of perception and language can build empathy, communication, and encourage people to practice lifelong learning of creative skills and languages. If you have an interest in learning more about any of the following topics, let me know and I will put together a reading list!
 
-* Language and Intelligence: What is the cognitive benefit of bilingualism in memory and creative problem-solving?
+* Language and Cognitive: What is the cognitive benefit of bilingualism in memory and creative problem-solving?
 * Models of Learning: How can language acquisition research be used to improve language processing models?
 * Cognitive Bias leads to Linguistic Patterns: What type of pattern-solving skills are utilized in language acquisition vs. other forms of learning? How do theories of linguistics pair with neuropsychological research?
-* Second language acquisition: What makes acquiring a language in adolescence/adulthood so different? Are there differences in cognitive and neural development between monolingual and bilingual children?
+* Second Language Acquisition: What makes acquiring a language in adolescence/adulthood so different? Are there differences in cognitive and neural development between monolingual and bilingual children?
 * Perception and Cognition: How does knowledge of a specific language affect perception, memory, representation, and learning?
 
 I have extensive experience as a teaching assistant, peer mentor, and private tutor. One day, I'd like to combine my passion for research and teaching to work as a professor or scientific communicator. If you have an interest in joining me in this pursuit, reach out anytime!
@@ -34,6 +39,6 @@ This is what some of my students at Harvard/Johns Hopkins have said about me on 
 
 For more info
 ------
-More info about my work and interests, shoot me an [email](mailto:brodyrms@gmail.com) or follow me on [Twitter](https://twitter.com/mrminipuff).
+More info about my work and interests, shoot me an [email](mailto:brodyrms@gmail.com) or follow me on [Twitter](https://twitter.com/mrminipuff). I refuse to call it X.
 
-*Last updated Jul. 5, 2023*
+*Last updated Feb 24, 2025*
